@@ -1,4 +1,4 @@
-🚀 FoodHub – Food Delivery Web Application 🍔🍕🍜
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/1443c729-2f18-4e75-8626-dcda0121d208" />🚀 FoodHub – Food Delivery Web Application 🍔🍕🍜
 
 FoodHub is a Full Stack Java Web Application built as part of my training at Tap Academy.
 It’s a complete food delivery solution that brings together frontend, backend, and database development in one project.
@@ -17,16 +17,16 @@ IDE & Tools: Eclipse IDE, MySQL Workbench, Apache Tomcat Server
 
 🧩 Features
 
-1️⃣ User Account Management – Signup & login system with authentication and validation
-2️⃣ Restaurant Listings – Dynamic display of restaurants fetched from the database
-3️⃣ Dynamic Menus 🍽 – Menus auto-update based on selected restaurant
-4️⃣ Cart System 🛒 – Add, remove, and update item quantities (with same-restaurant restriction)
-5️⃣ Order Placement 📦 – Delivery address and payment integration before confirmation
-6️⃣ Login Redirection 🔐 – Redirect non-logged-in users to login before ordering
-7️⃣ Reorder Function 🔄 – Place repeat orders from order history
-8️⃣ Order History & Tracking 📜 – View past orders with time and date
-9️⃣ Admin Functionalities ⚙ – Manage restaurants, menus, and orders from the backend
-🔟 Responsive UI 📱 – Optimized for desktop and mobile
+1️⃣ User Account Management – Signup & login system with authentication and validation,
+2️⃣ Restaurant Listings – Dynamic display of restaurants fetched from the database,
+3️⃣ Dynamic Menus 🍽 – Menus auto-update based on selected restaurant,
+4️⃣ Cart System 🛒 – Add, remove, and update item quantities (with same-restaurant restriction),
+5️⃣ Order Placement 📦 – Delivery address and payment integration before confirmation,
+6️⃣ Login Redirection 🔐 – Redirect non-logged-in users to login before ordering,
+7️⃣ Reorder Function 🔄 – Place repeat orders from order history,
+8️⃣ Order History & Tracking 📜 – View past orders with time and date,
+9️⃣ Admin Functionalities ⚙ – Manage restaurants, menus, and orders from the backend,
+🔟 Responsive UI 📱 – Optimized for desktop and mobile,
 📂 Project Structure
 Project/
 │── src/                     # Source code
@@ -57,10 +57,20 @@ http://localhost:8080/Project/login.jsp
 
 📸 Screenshots
 Login
-<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/b80c2fa9-459f-46d6-b1ae-94d4052c7fc4" />
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/366d242f-6d64-477e-a270-e8bb95fcf283" />
 
+Restaurant
+<img width="1892" height="968" alt="image" src="https://github.com/user-attachments/assets/8816d407-dfcd-4809-bbd6-7e3736d39403" />
 
-(Add login, menu, cart, and order tracking screenshots here)
+Menu
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/65a225cf-02fd-4a8f-a99c-d7b5e3aef794" />
+
+Cart
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/d88729b4-b50d-412a-8696-85ecae377f85" />
+
+Order tracking
+<img width="1912" height="957" alt="image" src="https://github.com/user-attachments/assets/83e13a73-5001-4530-bebc-afad93712abc" />
+
 
 ✨ Key Takeaways
 
