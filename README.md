@@ -1,4 +1,4 @@
-<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/1443c729-2f18-4e75-8626-dcda0121d208" />🚀 FoodHub – Food Delivery Web Application 🍔🍕🍜
+🚀 FoodHub – Food Delivery Web Application 🍔🍕🍜
 
 FoodHub is a Full Stack Java Web Application built as part of my training at Tap Academy.
 It’s a complete food delivery solution that brings together frontend, backend, and database development in one project.
